@@ -1,0 +1,6 @@
+version: '3'
+services:
+  sample-api:
+    image: 'anand26062000/anand26062000-sample-api:latest'
+    ports:
+      - "8080:8080"
